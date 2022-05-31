@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sidebar-with-Dropdown-Menu/static/css/main.13d105dd.css",
+    "main.js": "/Sidebar-with-Dropdown-Menu/static/js/main.be9592d8.js",
+    "index.html": "/Sidebar-with-Dropdown-Menu/index.html",
+    "main.13d105dd.css.map": "/Sidebar-with-Dropdown-Menu/static/css/main.13d105dd.css.map",
+    "main.be9592d8.js.map": "/Sidebar-with-Dropdown-Menu/static/js/main.be9592d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d105dd.css",
+    "static/js/main.be9592d8.js"
+  ]
+}
